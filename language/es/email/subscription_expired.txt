@@ -1,0 +1,13 @@
+Asunto: Tu suscripción ha caducado
+
+Hola {{ USERNAME }},
+
+Tu suscripción a "{{ SUB_NAME }}" en "{{ SITENAME }}" ha caducado.
+
+Puedes ver el estado de tu suscripción yendo el siguiente enlace:
+
+{{ U_VIEW_SUB }}
+
+Ha solicitado que se le notifique sobre este evento, recuerde que siempre puede elegir no recibir notificaciones de nuevos mensajes cambiando la configuración apropiada en su perfil.
+
+{{ EMAIL_SIG }}
