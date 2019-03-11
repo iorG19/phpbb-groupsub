@@ -11,7 +11,13 @@
 			"email": "stevotvr@stevotvr.com",
 			"homepage": "https://github.com/stevotvr",
 			"role": "Developer"
-		}
+		},
+		{
+			"name": "Georgian Iordache",
+			"email": "ior-g@hotmail.com",
+			"homepage": "https://www.palabradeiorg.es",
+			"role": "Spanish translator for (some) phpBB addons and lot of Xenforo 1.* and 2.* addons"
+		}		
 	],
 	"require": {
 		"php": ">=5.4",
